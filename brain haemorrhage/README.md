@@ -17,5 +17,4 @@ Given 2000 HU of one image (-1000 to 1000), this means that 1 greyscale covers 8
 The example of a hemorrhage in the brain shows relevant HUs in the range of 8-70. We won't be able to see important changes in the intensity to detect the hemorrhage.
 <br>
 This is the reason why we have to focus 256 shades of grey into a small range/window of HU units. (WINDOW)
-<br>
-
+![HU](https://user-images.githubusercontent.com/48018142/66403731-b5a88600-ea04-11e9-9f68-e8140dbcb9c6.png)
