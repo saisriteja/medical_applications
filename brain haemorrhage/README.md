@@ -1,0 +1,6 @@
+![haemorrage](https://user-images.githubusercontent.com/48018142/66402477-8abd3280-ea02-11e9-9655-3fec8d00e46e.png)
+![epidural](https://user-images.githubusercontent.com/48018142/66402479-8b55c900-ea02-11e9-8e23-19c9544296ac.png)
+![intraparenchymal](https://user-images.githubusercontent.com/48018142/66402480-8b55c900-ea02-11e9-91ed-c10e794a468d.png)
+![intraventricular](https://user-images.githubusercontent.com/48018142/66402481-8b55c900-ea02-11e9-99cd-d2cceb4ea59d.png)
+![subarachnoid](https://user-images.githubusercontent.com/48018142/66402482-8bee5f80-ea02-11e9-8950-260b745b6d7c.png)
+![subdural](https://user-images.githubusercontent.com/48018142/66402486-8d1f8c80-ea02-11e9-8390-14eee617c6ec.png)
