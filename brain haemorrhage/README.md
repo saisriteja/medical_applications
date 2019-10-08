@@ -7,12 +7,17 @@ While DICOM 16-bit images (with values ranging from -32768..32767), other 8-bit 
 The brain matter window is the one  which is able to pick up most abnormalities, I will show later that this might cause one to miss some diagnoses. 
 <br>
 There are at least 5 windows that a radiologist goes through for each scan!
+<br>
 ---- Brain Matter window : W:80 L:40
+<br>
 ---- Blood/subdural window: W:130-300 L:50-100
+<br>
 ---- Soft tissue window: W:350–400 L:20–60
+<br>
 ---- Bone window: W:2800 L:600
+<br>
 ---- Grey-white differentiation window: W:8 L:32 or W:40 L:40
-
+<br>
 
 # Brain Haemorrhages
 ![haemorrage](https://user-images.githubusercontent.com/48018142/66402477-8abd3280-ea02-11e9-9655-3fec8d00e46e.png)
